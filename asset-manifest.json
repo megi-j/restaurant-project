@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/restaurant-project/static/css/main.073c9b0a.css",
+    "main.js": "/restaurant-project/static/js/main.71e7bfcd.js",
+    "static/js/787.04ae8617.chunk.js": "/restaurant-project/static/js/787.04ae8617.chunk.js",
+    "static/media/logo.svg": "/restaurant-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/restaurant-project/index.html",
+    "main.073c9b0a.css.map": "/restaurant-project/static/css/main.073c9b0a.css.map",
+    "main.71e7bfcd.js.map": "/restaurant-project/static/js/main.71e7bfcd.js.map",
+    "787.04ae8617.chunk.js.map": "/restaurant-project/static/js/787.04ae8617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.71e7bfcd.js"
+  ]
+}
